@@ -1,13 +1,14 @@
 {
   "name": "use-ekko",
-  "version": "0.0.1",
-  "description": "useEkko is a lightweight, 0 dependencies library that aims to solve your simple state management problems.",
+  "version": "0.0.2",
+  "description": "useEkko is a lightweight, 0 dependencies library that aims to solve your simple React state management problems.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "askharley",
   "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "react": "^16.13.1"
   }
