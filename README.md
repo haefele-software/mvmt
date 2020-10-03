@@ -6,7 +6,7 @@
 
  
 
-##### useEkko is a lightweight, 0 dependencies library that aims to solve your simple state management problems.
+##### useEkko is a lightweight, 0 dependencies library that aims to solve your simple React state persistence problems.
 
 ✅ Zero dependencies
 
