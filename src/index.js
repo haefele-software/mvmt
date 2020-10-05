@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-export const useEkko = (name, initialValue) => {
+export const useEkko = (name, initialValue = null) => {
   const initialStoredValue = window.localStorage.getItem(name) !== undefined ? JSON.parse(window.localStorage.getItem(name)) : initialValue;
 
   const [value, setValue] = useState(initialStoredValue);
