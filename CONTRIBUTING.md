@@ -1,4 +1,4 @@
-# Contributing to use-ekko
+# Contributing to refleqt
 
 We want to make contributing to this project as easy and transparent as
 possible.

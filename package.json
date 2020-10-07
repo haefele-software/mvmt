@@ -1,7 +1,7 @@
 {
-  "name": "use-ekko",
-  "version": "0.0.3",
-  "description": "useEkko is a lightweight, 0 dependencies library that aims to solve your simple React state management problems.",
+  "name": "refleqt",
+  "version": "0.0.2",
+  "description": "This is refleqt.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/askharley/use-ekko"
+    "url": "https://github.com/askharley/refleqt"
   },
   "dependencies": {
     "react": "^16.13.1"
