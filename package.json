@@ -1,7 +1,7 @@
 {
-  "name": "refleqt",
-  "version": "0.0.2",
-  "description": "This is refleqt.",
+  "name": "mvmt",
+  "version": "0.0.1",
+  "description": "A utility library to help you write React code.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/askharley/refleqt"
+    "url": "https://github.com/haefele-software/mvmt"
   },
   "dependencies": {
     "react": "^16.13.1"
