@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 function useBoolValue() {
-    const [showModal, setShowModal] = React.useState(false);
-    const toggleModal = () => setShowModal(!showModal);
+    const [value, setValue] = React.useState(false);
+    const toggleValue = () => setValue(!value);
 
-    return [showModal, toggleModal];
+    return [value, toggleValue];
 }
 
 export default useBoolValue;
