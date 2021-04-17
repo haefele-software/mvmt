@@ -13,6 +13,7 @@
     "url": "git+https://github.com/haefele-software/mvmt.git"
   },
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "react": "^16.13.1"
   },
   "bugs": {
